@@ -1,0 +1,31 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+}
+
+.item {
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: darkseagreen;
+}
+
+.button {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid;
+  float: right;
+  transform: rotate(0deg);
+
+}
+
+.lorem {
+  display: none;
+}
+
+p {
+  font-size: medium;
+}
